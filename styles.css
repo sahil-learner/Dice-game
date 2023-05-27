@@ -28,6 +28,7 @@ span{
   font-size: 4rem;
   color: #4ECCA3;
   background-color: #393E46;
+  cursor:pointer;
 }
 p {
   font-size: 2rem;
